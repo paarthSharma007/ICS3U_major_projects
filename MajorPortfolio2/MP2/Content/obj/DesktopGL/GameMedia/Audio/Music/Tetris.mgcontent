@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Music/Tetris.mp3</SourceFile>
+  <SourceTime>2024-11-06T09:25:49.965605-05:00</SourceTime>
+  <DestFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/bin/Debug/Content/GameMedia/Audio/Music/Tetris.xnb</DestFile>
+  <DestTime>2024-11-10T14:38:57.2719801-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-10-01T09:04:26.463006-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-10-01T09:04:26.463006-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/bin/Debug/Content/GameMedia/Audio/Music/Tetris.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

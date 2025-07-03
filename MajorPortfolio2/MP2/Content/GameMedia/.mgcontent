@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Music/Tetris.mp3</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Sounds/Bounce.wav</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Sounds/CrateWin.wav</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Sounds/Explosion.wav</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Sounds/UISelection.wav</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Fonts/HUDFont.spritefont</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Fonts/MenuFont.spritefont</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Images/Backgrounds/space.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Images/Sprites/asteroid.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Images/Sprites/crate.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Images/Sprites/explode.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Images/Sprites/ship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

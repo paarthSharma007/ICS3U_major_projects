@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\Pass1\\Pass1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ED58E3-958F-4707-88AD-3D5C388EB287}|GameStateDemo\\GameStateDemo.csproj|c:\\users\\trend\\onedrive\\desktop\\ics\\assignments\\minor\\pass1\\pass1\\gamestatedemo\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ED58E3-958F-4707-88AD-3D5C388EB287}|GameStateDemo\\GameStateDemo.csproj|solutionrelative:gamestatedemo\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\Pass1\\Pass1\\GameStateDemo\\Game1.cs",
+              "RelativeDocumentMoniker": "GameStateDemo\\Game1.cs",
+              "ToolTip": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\Pass1\\Pass1\\GameStateDemo\\Game1.cs",
+              "RelativeToolTip": "GameStateDemo\\Game1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA3wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:49:29.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

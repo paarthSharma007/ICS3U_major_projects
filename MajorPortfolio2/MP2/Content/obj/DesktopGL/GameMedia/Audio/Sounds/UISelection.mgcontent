@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Audio/Sounds/UISelection.wav</SourceFile>
+  <SourceTime>2024-11-06T09:25:50.2472529-05:00</SourceTime>
+  <DestFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/bin/Debug/Content/GameMedia/Audio/Sounds/UISelection.xnb</DestFile>
+  <DestTime>2024-11-10T14:38:59.2825371-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-10-01T09:04:26.463006-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-10-01T09:04:26.463006-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

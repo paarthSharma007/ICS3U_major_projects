@@ -1,0 +1,7 @@
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\bin\Debug\Q2.exe.config
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\bin\Debug\Q2.exe
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\bin\Debug\Q2.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\obj\Debug\Q2.exe
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Major\MajorPortfolio1\Q2\obj\Debug\Q2.pdb

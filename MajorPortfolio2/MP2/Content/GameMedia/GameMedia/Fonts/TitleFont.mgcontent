@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/Content/GameMedia/Fonts/TitleFont.spritefont</SourceFile>
+  <SourceTime>2024-11-06T09:25:50.5668701-05:00</SourceTime>
+  <DestFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Major/MajorPortfolio2/MP2/bin/Debug/Content/GameMedia/Fonts/TitleFont.xnb</DestFile>
+  <DestTime>2024-11-10T18:36:26.9999712-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-10-01T09:04:26.463006-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-10-01T09:04:26.463006-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
